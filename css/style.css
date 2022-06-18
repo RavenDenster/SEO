@@ -907,9 +907,9 @@ body.active {
     top: -150%;
     opacity: 0;
     overflow: auto;
-    -webkit-transition: top 0.8s ease;
-    -o-transition: top 0.8s ease;
-    transition: top 0.8s ease;
+    -webkit-transition: 0.8s ease;
+    -o-transition: 0.8s ease;
+    transition:0.8s ease;
   }
 
   .menu__list {
