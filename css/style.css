@@ -802,6 +802,7 @@ body.active {
 
 .home__picture {
   width: 100%;
+  display: flex;
 }
 
 .home__h3 {
