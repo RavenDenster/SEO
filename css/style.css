@@ -201,6 +201,7 @@ section {
 
 html.menu-open .menu__body {
   top: 0;
+  opacity: 1;
 }
 
 .header {
@@ -904,6 +905,7 @@ body.active {
     background-color: var(--light-bg);
     padding: 90px 10px 20px 10px;
     top: -150%;
+    opacity: 0;
     overflow: auto;
     -webkit-transition: top 0.8s ease;
     -o-transition: top 0.8s ease;
