@@ -802,7 +802,6 @@ body.active {
 
 .home__picture {
   width: 100%;
-  display: flex;
 }
 
 .home__h3 {
@@ -1064,6 +1063,8 @@ body.active {
 
   .home__picture {
     width: 80%;
+    margin: 0 auto;
+    display: flex;
   }
 
   .home__content {
